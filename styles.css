@@ -2,6 +2,10 @@ html {
   background-color: lightblue;
 }
 
+body {
+  background-color: lightblue;
+}
+
 .card {
-  background-color: lightgreen;
+  background-color: hsl(220, 100%, 75%);
 }
